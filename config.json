@@ -2,15 +2,17 @@
   "meta": {
     "title": "Inception Point AI - Media Kit",
     "description": "Partner with the world's largest AI-native podcast network",
-    "lastUpdated": "2026-02-06",
+    "lastUpdated": "2026-04-29",
     "contactEmail": "partnerships@inceptionpoint.ai"
   },
   "stats": {
-    "shows": "5,000+",
-    "episodes": "200,000+",
-    "totalDownloads": "13M+",
-    "monthlyListens": "750K+",
-    "episodesPerWeek": "3,000+"
+    "shows": "11,400+",
+    "episodes": "280,000+",
+    "totalDownloads": "15.6M+",
+    "monthlyListens": "778K+",
+    "episodesPerWeek": "4,000+",
+    "thirtyDayDownloads": "778K",
+    "dailyAverage": "26K"
   },
   "categories": [
     {
@@ -65,45 +67,59 @@
   "topShows": [
     {
       "title": "Gunsmoke - Old Time Radio",
-      "category": "Public Domain Radio",
-      "icon": "🔫",
-      "lifetimeDownloads": "171,972",
-      "monthlyDownloads": "14,710"
+      "category": "Classic Radio",
+      "icon": "🤠",
+      "lifetimeDownloads": "257,739",
+      "monthlyDownloads": "14,569"
+    },
+    {
+      "title": "Blake Lively and Justin Baldoni",
+      "category": "Entertainment",
+      "icon": "🎬",
+      "lifetimeDownloads": "168,565",
+      "monthlyDownloads": "9,155"
     },
     {
       "title": "Poirot Investigates - Agatha Christie",
       "category": "Mystery",
       "icon": "🔍",
-      "lifetimeDownloads": "232,788",
-      "monthlyDownloads": "9,672"
-    },
-    {
-      "title": "Andrew Huberman - Biography Flash",
-      "category": "Biography",
-      "icon": "🧠",
-      "lifetimeDownloads": "103,751",
-      "monthlyDownloads": "9,809"
+      "lifetimeDownloads": "348,518",
+      "monthlyDownloads": "6,512"
     },
     {
       "title": "Agatha Christie Radio Plays",
       "category": "Mystery",
       "icon": "📻",
-      "lifetimeDownloads": "153,826",
-      "monthlyDownloads": "8,163"
+      "lifetimeDownloads": "352,124",
+      "monthlyDownloads": "5,498"
     },
     {
-      "title": "Jason & Travis Kelce - Football Brothers",
+      "title": "Nicholas Fuentes - Biography Flash",
+      "category": "Biography",
+      "icon": "🎙️",
+      "lifetimeDownloads": "131,828",
+      "monthlyDownloads": "4,298"
+    },
+    {
+      "title": "Suspense - Old Time Radio",
+      "category": "Classic Radio",
+      "icon": "📻",
+      "lifetimeDownloads": "144,234",
+      "monthlyDownloads": "3,600"
+    },
+    {
+      "title": "The Morning Person - A Daily Meditation",
+      "category": "Wellness",
+      "icon": "🧘",
+      "lifetimeDownloads": "79,676",
+      "monthlyDownloads": "3,636"
+    },
+    {
+      "title": "Jason and Travis Kelce - Football Brothers",
       "category": "Sports",
       "icon": "🏈",
-      "lifetimeDownloads": "75,895",
-      "monthlyDownloads": "4,661"
-    },
-    {
-      "title": "Warren Buffett - Biography Flash",
-      "category": "Biography",
-      "icon": "💼",
-      "lifetimeDownloads": "41,029",
-      "monthlyDownloads": "3,018"
+      "lifetimeDownloads": "204,288",
+      "monthlyDownloads": "3,417"
     }
   ],
   "analytics": {
