@@ -2,62 +2,62 @@
   "meta": {
     "title": "Inception Point AI - Media Kit",
     "description": "Partner with the world's largest AI-native podcast network",
-    "lastUpdated": "2026-02-06",
+    "lastUpdated": "2026-05-01",
     "contactEmail": "partnerships@inceptionpoint.ai"
   },
   "stats": {
-    "shows": "5,000+",
-    "episodes": "200,000+",
-    "totalDownloads": "13M+",
-    "monthlyListens": "750K+",
-    "episodesPerWeek": "3,000+"
+    "shows": "11,800+",
+    "episodes": "280,000+",
+    "totalDownloads": "15.6M+",
+    "monthlyListens": "782K+",
+    "episodesPerWeek": "4,000+"
   },
   "categories": [
     {
       "name": "History & Biography",
-      "icon": "📚",
+      "icon": "\ud83d\udcda",
       "shows": "500+",
       "downloads": "2M+"
     },
     {
       "name": "Public Domain & Literature",
-      "icon": "🎭",
+      "icon": "\ud83c\udfad",
       "shows": "300+",
       "downloads": "3M+"
     },
     {
       "name": "Health & Wellness",
-      "icon": "🏥",
+      "icon": "\ud83c\udfe5",
       "shows": "200+",
       "downloads": "1.5M+"
     },
     {
       "name": "Business & Finance",
-      "icon": "💰",
+      "icon": "\ud83d\udcb0",
       "shows": "150+",
       "downloads": "800K+"
     },
     {
       "name": "Technology & AI",
-      "icon": "🤖",
+      "icon": "\ud83e\udd16",
       "shows": "100+",
       "downloads": "500K+"
     },
     {
       "name": "Weather & Local",
-      "icon": "🌤️",
+      "icon": "\ud83c\udf24\ufe0f",
       "shows": "50+",
       "downloads": "250K+"
     },
     {
       "name": "Sports",
-      "icon": "🏈",
+      "icon": "\ud83c\udfc8",
       "shows": "100+",
       "downloads": "600K+"
     },
     {
       "name": "Entertainment & Celebrity",
-      "icon": "🎬",
+      "icon": "\ud83c\udfac",
       "shows": "200+",
       "downloads": "1M+"
     }
@@ -65,45 +65,59 @@
   "topShows": [
     {
       "title": "Gunsmoke - Old Time Radio",
-      "category": "Public Domain Radio",
-      "icon": "🔫",
-      "lifetimeDownloads": "171,972",
-      "monthlyDownloads": "14,710"
+      "category": "Classic Radio",
+      "icon": "\ud83d\udd2b",
+      "lifetimeDownloads": "258,660",
+      "monthlyDownloads": "14,543"
     },
     {
       "title": "Poirot Investigates - Agatha Christie",
       "category": "Mystery",
-      "icon": "🔍",
-      "lifetimeDownloads": "232,788",
-      "monthlyDownloads": "9,672"
-    },
-    {
-      "title": "Andrew Huberman - Biography Flash",
-      "category": "Biography",
-      "icon": "🧠",
-      "lifetimeDownloads": "103,751",
-      "monthlyDownloads": "9,809"
+      "icon": "\ud83d\udd0d",
+      "lifetimeDownloads": "348,773",
+      "monthlyDownloads": "6,497"
     },
     {
       "title": "Agatha Christie Radio Plays",
       "category": "Mystery",
-      "icon": "📻",
-      "lifetimeDownloads": "153,826",
-      "monthlyDownloads": "8,163"
+      "icon": "\ud83d\udcfb",
+      "lifetimeDownloads": "352,391",
+      "monthlyDownloads": "5,475"
+    },
+    {
+      "title": "The Morning Person - A Daily Meditation",
+      "category": "Wellness",
+      "icon": "\ud83e\uddd8",
+      "lifetimeDownloads": "79,799",
+      "monthlyDownloads": "3,615"
+    },
+    {
+      "title": "Suspense - Old Time Radio",
+      "category": "Classic Radio",
+      "icon": "\ud83c\udfad",
+      "lifetimeDownloads": "144,332",
+      "monthlyDownloads": "3,489"
     },
     {
       "title": "Jason & Travis Kelce - Football Brothers",
       "category": "Sports",
-      "icon": "🏈",
-      "lifetimeDownloads": "75,895",
-      "monthlyDownloads": "4,661"
+      "icon": "\ud83c\udfc8",
+      "lifetimeDownloads": "204,394",
+      "monthlyDownloads": "3,356"
+    },
+    {
+      "title": "Tucker Carlson - Audio Biography",
+      "category": "Biography",
+      "icon": "\ud83c\udf99\ufe0f",
+      "lifetimeDownloads": "170,223",
+      "monthlyDownloads": "2,776"
     },
     {
       "title": "Warren Buffett - Biography Flash",
-      "category": "Biography",
-      "icon": "💼",
-      "lifetimeDownloads": "41,029",
-      "monthlyDownloads": "3,018"
+      "category": "Business",
+      "icon": "\ud83d\udcbc",
+      "lifetimeDownloads": "54,854",
+      "monthlyDownloads": "2,140"
     }
   ],
   "analytics": {
